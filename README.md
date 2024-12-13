@@ -22,7 +22,7 @@ Image Inpainting Widget is a powerful React-based web application that allows us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/image-inpainting-widget.git
+   git clone https://github.com/Abiral-2724/Image-Inpainting-Tool-Assignment.git
    cd image-inpainting-widget
    ```
 
@@ -82,7 +82,7 @@ npm run build
 
 Abiral Jain - [GitHub Profile](https://github.com/Abiral-2724)
 
-Project Link: [https://github.com/Abiral-2724/image-inpainting-widget](https://github.com/Abiral-2724/image-inpainting-widget)
+Project Link: [https://github.com/Abiral-2724/Image-Inpainting-Tool-Assignment](https://github.com/Abiral-2724/Image-Inpainting-Tool-Assignment)
 
 ---
 
